@@ -1,10 +1,20 @@
 #include <stdio.h>
-int main(){
+/**
+* main - Entry point
+*
+* Description : prints the lowercase alphabet in reverse
+*
+* Return: Always 0 (success)
+*/
+
+int main(void)
+{
 char a = 'z';
-while(a>='a'){
+while(a>='a')
+{
 putchar(a);
 a--;
 }
 putchar('\n');
-return 0;
+return (0);
 }

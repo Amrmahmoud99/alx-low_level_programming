@@ -5,5 +5,6 @@ while(a>='a'){
 putchar(a);
 a--;
 }
+putchar('\m');
 return 0;
 }

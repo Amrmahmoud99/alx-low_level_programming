@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 *
-* Description :  program that prints all possible combinations 
+* Description : program that prints all possible combinations 
 *
 * Return: Always 0 (success)
 */

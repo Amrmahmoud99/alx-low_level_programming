@@ -1,10 +1,10 @@
 #include "main.h"
 /*
- * _isupper : function return 1 if upper return 0 if else
+ *_isupper : function return 1 if upper return 0 if else
  *
- * @c : input
+ *@c : input
  *
- * return : 1 if it is upper . else return 0
+ *return : 1 if it is upper . else return 0
  */
 int _isupper(int c)
 {

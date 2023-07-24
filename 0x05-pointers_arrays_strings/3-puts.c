@@ -8,9 +8,5 @@
  */
 void _puts(char *str)
 {
-int counter = 0;
-while (str[counter] != '\0')
-{
-puts(str[counter]);
-}
+puts(str);
 }
